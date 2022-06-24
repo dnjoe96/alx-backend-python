@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 """ Module contains function to return string of a float """
-import math
 
 
 def to_str(n: float) -> str:
