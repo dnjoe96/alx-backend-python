@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """ Module containing function that returns list's first element or None"""
 from typing import List, Tuple
 
