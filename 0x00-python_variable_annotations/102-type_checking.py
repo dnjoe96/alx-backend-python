@@ -4,7 +4,7 @@ from typing import List, Tuple
 
 
 def zoom_array(lst: Tuple, factor: int = 2) -> List:
-    """A function that returns each element replicated 
+    """A function that returns each element replicated
     to factor list from lst"""
     zoomed_in: List = [
         item for item in lst
