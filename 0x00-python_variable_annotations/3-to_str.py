@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-""" Module contains function to concatenate two strings """
+""" Module contains function to return string of a float """
 import math
 
-def floor(n: float) -> int:
-    """ Functions return floor of a float """
-    return float(math.floor(n))
+
+def to_str(n: float) -> str:
+    """ Functions return str of a float """
+    return str(n)
